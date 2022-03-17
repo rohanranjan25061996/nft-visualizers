@@ -1,0 +1,27 @@
+{
+    "name": "Goku Ultra Instinct",
+    "description": "Ultra Instinct Goku creates a giant energy avatar In the manga, after Perfected Super Saiyan Blue Vegeta's quick defeat at Beerus' hand, Whis notes that achieving this state would allow Vegeta to take on any foe, including Beerus.",
+    "image": "https://ipfs.io/ipfs/QmXGyVEsLofURwVtd8XVahyFDULXGj5bykQ9AB7coo7MW2/img6.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Jump",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 9,
+        "max_value": 10
+      }
+    ]
+  }

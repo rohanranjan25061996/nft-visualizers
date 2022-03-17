@@ -1,0 +1,27 @@
+{
+    "name": "Naruto Baryon Mode",
+    "description": "Naruto's new form is officially called Baryon Mode. According to Kurama, it involves smashing Naruto's chakra and the Nine-Tails' chakra together in a manner similar to nuclear fusion, creating entirely new energy. ... In terms of power, Baryon Mode is far beyond any of Naruto's other transformations",
+    "image": "https://ipfs.io/ipfs/QmXGyVEsLofURwVtd8XVahyFDULXGj5bykQ9AB7coo7MW2/img7.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Jump",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 9,
+        "max_value": 10
+      }
+    ]
+  }

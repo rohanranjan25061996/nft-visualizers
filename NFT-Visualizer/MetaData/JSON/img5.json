@@ -1,0 +1,51 @@
+{
+    "name": "Goku SSB",
+    "description": "This is level 2 of Super Saiyan God. His power can overcome one of a god.",
+    "image": "https://ipfs.io/ipfs/QmXGyVEsLofURwVtd8XVahyFDULXGj5bykQ9AB7coo7MW2/img5.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Jump",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 9,
+        "max_value": 10
+      },
+    {
+        "display_type": "boost_number",
+        "trait_type": "Jump",
+        "value": 1
+    },
+    {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 20
+    },
+    {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+    },
+    {
+        "trait_type": "Humble",
+        "value": "True"
+    },
+    {
+        "trait_type": "Kind",
+        "value": "True"
+    }
+
+    ]
+  }

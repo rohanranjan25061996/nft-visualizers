@@ -1,0 +1,27 @@
+{
+    "name": "Fullmetal Alchemist",
+    "description": "If there's one big takeaway, one central idea in Fullmetal Alchemist: Brotherhood it's this: there's no such thing as a painless lesson. In order to gain anything, you must lose something first. We learn from our mistakes, we grow from our experiences, and sometimes that means getting hurt",
+    "image": "https://ipfs.io/ipfs/QmXGyVEsLofURwVtd8XVahyFDULXGj5bykQ9AB7coo7MW2/img1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Jump",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 9,
+        "max_value": 10
+      }
+    ]
+  }

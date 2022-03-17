@@ -1,0 +1,27 @@
+.main_conatiner{
+    border-radius: 15px 50px;
+    margin-top: 10px;
+}
+
+.main_details{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    color: #86ffda;
+}
+
+.data_conatiner{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,152,155,1) 0.1%, rgba(0,94,120,1) 94.2% );
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+.imp{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
